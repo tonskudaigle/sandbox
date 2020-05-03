@@ -1,6 +1,7 @@
 # sandbox
-## A sandbox for testing stuff.
+## For testing stuff.
 
 - Bootstrap support
 - jQuery support
 - Font Awesome support
+- template.html file for a starting point file
